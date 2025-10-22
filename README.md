@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="URL_DE_VOTRE_IMAGE_DE_PROFIL_OU_UN_GIF_COOL" alt="Bienvenue" width="100"/>
   <h1>👋 Bonjour, je suis Yves!</h1>
   <p>Passionné par la technologie, le développement logiciel et tout ce qui est innovant.</p>
 </div>
