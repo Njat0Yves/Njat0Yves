@@ -24,7 +24,7 @@ Entre le code et l’infrastructure, je construis des systèmes **scalables, aut
 | :--- | :--- |
 | **Langages** | JavaScript (Node.js), Python, PHP, Bash, C++ |
 | **Frontend** | React, Vue.js, HTML5, CSS3 |
-| **Backend** | Express.js, Django, Laravel |
+| **Backend** | Express.js, Nodejs, Django, Laravel |
 | **Bases de données** | MySQL, PostgreSQL, MongoDB |
 | **DevOps & Cloud** | Docker, Kubernetes, Jenkins, GitHub Actions, Nginx, AWS, Azure (en apprentissage) |
 | **Infra & Sécurité** | Ansible, Terraform, pfSense, Snort, Suricata, ELK Stack |
@@ -51,26 +51,12 @@ Entre le code et l’infrastructure, je construis des systèmes **scalables, aut
 Envie de collaborer ou d’échanger sur la tech ?  
 N’hésite pas à me contacter 👇
 
-- 📧 **E-mail Pro :** njatoyves.pro@gmail.com  
-- 💼 **LinkedIn :** [linkedin.com/in/njatoyves](https://linkedin.com/in/njatoyves)  
+- 📧 **E-mail Pro :** njatorahery26@gmail.com   
 - 🐙 **GitHub :** [github.com/Njat0Yves](https://github.com/Njat0Yves)  
-- 🐦 **Twitter (X) :** [twitter.com/Njat0Yves](https://twitter.com/Njat0Yves)
 
 ---
 
-### 📊 Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Njat0Yves&show_icons=true&theme=radical&hide_border=true" alt="Statistiques GitHub de Njat0Yves"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Njat0Yves&theme=radical&hide_border=true" alt="Série de contributions de Njat0Yves"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njat0Yves&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés par Njat0Yves"/>
-</div>
-
----
-
-### 💬 Citation qui me motive
+### 💬 Une de mes devises
 
 > “L’automatisation n’est pas seulement un gain de temps — c’est un art qui libère la créativité humaine.”  
 > — *Njato Yves*
