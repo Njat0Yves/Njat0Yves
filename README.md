@@ -1,50 +1,82 @@
 <div align="center">
-  <h1>👋 Bonjour, je suis Yves!</h1>
-  <p>Passionné par la technologie, le développement logiciel et tout ce qui est innovant.</p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Bienvenue" width="120"/>
+  <h1>👋 Bonjour, je suis <strong>Njato Yves</strong>!</h1>
+  <p>🌍 Ingénieur DevOps & Développeur Web passionné par l’automatisation, le cloud et la création d’applications performantes.</p>
 </div>
 
 ---
 
-### 🌟 Ce qui me passionne et ce que je partage
+### 🚀 À propos de moi
 
-Je suis un développeur ✨ **polyvalent** ✨ toujours à l'affût de nouvelles connaissances. Mon objectif est de créer des solutions efficaces et conviviales.
+Je suis un **développeur web et DevOps Engineer** animé par la curiosité et la recherche de performance.  
+Entre le code et l’infrastructure, je construis des systèmes **scalables, automatisés et sécurisés**.
 
-- 👨‍💻 Actuellement en train de plonger dans l'écosystème **[Nom du langage/framework actuel, ex: Python et Django]** et l'architecture **[Nom de l'architecture, ex: Microservices]**.
-- 💡 Je cherche activement à collaborer sur des projets **Open Source** et des initiatives qui ont un impact positif.
-- 💬 J'aime échanger sur les bonnes pratiques de code, l'optimisation et les défis techniques.
+- 🔭 Actuellement sur le projet : **Mise en place d’une infrastructure DevOps pour une plateforme de streaming**
+- 🌱 J’approfondis mes connaissances en **Kubernetes, CI/CD, Docker, et Infrastructure as Code (Terraform, Ansible)**  
+- 💬 J’aime échanger sur les **bonnes pratiques DevOps**, le **déploiement continu** et la **sécurisation des systèmes**
+- 💡 Objectif : Devenir un **DevOps complet** maîtrisant tout le cycle de vie du logiciel — du code au déploiement
 
 ---
 
-### 🛠️ Mon Stack Technique
-
-Voici quelques technologies avec lesquelles j'aime travailler et apprendre :
+### 🧰 Stack Technique
 
 | Domaine | Technologies |
 | :--- | :--- |
-| **Langages** | JavaScript (Node.js), Python, PHP, C++ |
-| **Bases de données** | PostgreSQL, MySQL, MongoDB |
+| **Langages** | JavaScript (Node.js), Python, PHP, Bash, C++ |
 | **Frontend** | React, Vue.js, HTML5, CSS3 |
 | **Backend** | Express.js, Django, Laravel |
-| **Outils & Cloud** | Git, Docker, AWS/Azure (en apprentissage) |
+| **Bases de données** | MySQL, PostgreSQL, MongoDB |
+| **DevOps & Cloud** | Docker, Kubernetes, Jenkins, GitHub Actions, Nginx, AWS, Azure (en apprentissage) |
+| **Infra & Sécurité** | Ansible, Terraform, pfSense, Snort, Suricata, ELK Stack |
+| **Systèmes** | Ubuntu Server, Windows Server, MikroTik, VirtualBox |
 
-<br/>
+---
 
-### 🌐 Connectons-nous !
+### ⚙️ Ce que je fais en ce moment
 
-Que vous ayez un projet à proposer, une question technique ou juste envie de discuter, n'hésitez pas à me contacter !
+- 🧩 **DevOps** :  
+  - Intégration et déploiement continus (**CI/CD**) avec GitHub Actions et Jenkins  
+  - Conteneurisation d’applications avec **Docker** et **Kubernetes**  
+  - Surveillance d’infrastructures via **Prometheus** et **Grafana**
 
-- 📧 **E-mail Pro:** njatorahery26@gmail.com
-- 💼 **LinkedIn:** [Lien vers votre profil LinkedIn]
-- 🐦 **Twitter:** [Lien vers votre profil Twitter (si vous en avez un)]
+- 💻 **Développement Web** :  
+  - Création d’API RESTful avec **Node.js / Express**  
+  - Conception d’applications full-stack **React + Node.js + MySQL**  
+  - Implémentation de fonctionnalités modernes comme l’**OCR**, la **classification**, et les **statistiques dynamiques**
+
+---
+
+### 🌐 Connectons-nous
+
+Envie de collaborer ou d’échanger sur la tech ?  
+N’hésite pas à me contacter 👇
+
+- 📧 **E-mail Pro :** njatoyves.pro@gmail.com  
+- 💼 **LinkedIn :** [linkedin.com/in/njatoyves](https://linkedin.com/in/njatoyves)  
+- 🐙 **GitHub :** [github.com/Njat0Yves](https://github.com/Njat0Yves)  
+- 🐦 **Twitter (X) :** [twitter.com/Njat0Yves](https://twitter.com/Njat0Yves)
 
 ---
 
 ### 📊 Statistiques GitHub
 
-*(Si vous voulez inclure vos statistiques comme Kelly-alphador, ajoutez ces lignes)*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Njat0Yves&show_icons=true&theme=radical&hide_border=true" alt="Statistiques GitHub de Njat0Yves"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Njat0Yves&theme=radical&hide_border=true" alt="Série de contributions de Njat0Yves"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njat0Yves&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés par Njat0Yves"/>
+</div>
+
+---
+
+### 💬 Citation qui me motive
+
+> “L’automatisation n’est pas seulement un gain de temps — c’est un art qui libère la créativité humaine.”  
+> — *Njato Yves*
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Njat0Yves&show_icons=true&theme=vue-dark&hide_border=true" alt="Statistiques GitHub de Njat0Yves"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Njat0Yves&theme=vue-dark&hide_border=true" alt="Série de contributions de Njat0Yves"/>
+  <i>💡 “Construire, automatiser, déployer... recommencer.”</i>
 </div>
