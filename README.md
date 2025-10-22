@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Bienvenue" width="120"/>
   <h1>👋 Bonjour, je suis <strong>Njato Yves</strong>!</h1>
   <p>🌍 Ingénieur DevOps & Développeur Web passionné par l’automatisation, le cloud et la création d’applications performantes.</p>
 </div>
